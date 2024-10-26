@@ -1,3 +1,3 @@
 - Data Analysis Code And CaseStudy
 - Numpy
-- Pandas Pratice co
+- Pandas Pratice codes
