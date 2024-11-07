@@ -3,7 +3,7 @@
 -  It is widely used in data science, machine learning, and scientific computing due to its capabilities with arrays, linear algebra, and other mathematical operations.
 - Key Features
     -  N-Dimensional Arrays
-    - Mathematical Operations
+    - Mathematical Operations 
     - Broadcasting
     - Integration with Other Libraries
     -  Random Number Generation
