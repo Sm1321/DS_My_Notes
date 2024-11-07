@@ -14,5 +14,5 @@
         - Apply Functions: Apply functions to rows, columns, or entire DataFrames.
         - Reshaping: Pivot, melt, and stack data to transform data shape for analysis.
     - 4.Input/Output:
-        Read and write data to various file formats, including CSV, Excel, SQL, JSON, and more.
+        - Read and write data to various file formats, including CSV, Excel, SQL, JSON, and more.
       
