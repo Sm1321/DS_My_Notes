@@ -15,7 +15,7 @@
         - Reshaping: Pivot, melt, and stack data to transform data shape for analysis.
     - 4.Input/Output:
         - Read and write data to various file formats, including CSV, Excel, SQL, JSON, and more.
-    - Common Use Cases
+- Common Use Cases
     - Data cleaning and preparation
     - Exploratory data analysis (EDA)
     - Aggregating and summarizing data
