@@ -13,6 +13,6 @@
     - 3.Data Transformation:
         - Apply Functions: Apply functions to rows, columns, or entire DataFrames.
         - Reshaping: Pivot, melt, and stack data to transform data shape for analysis.
-        - Input/Output:
+    - 4.Input/Output:
         Read and write data to various file formats, including CSV, Excel, SQL, JSON, and more.
       
