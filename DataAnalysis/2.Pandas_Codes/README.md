@@ -10,4 +10,9 @@
         - Aggregation and Grouping: Aggregate data by categories, calculate means, sums, etc., with simple syntax.
         - Handling Missing Data: Fill in or drop missing values with built-in methods.
         - Merging and Joining: Combine multiple DataFrames based on key columns.
+    - 3.Data Transformation:
+        - Apply Functions: Apply functions to rows, columns, or entire DataFrames.
+        - Reshaping: Pivot, melt, and stack data to transform data shape for analysis.
+        - Input/Output:
+        Read and write data to various file formats, including CSV, Excel, SQL, JSON, and more.
       
