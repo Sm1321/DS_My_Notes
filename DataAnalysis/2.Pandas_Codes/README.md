@@ -15,4 +15,10 @@
         - Reshaping: Pivot, melt, and stack data to transform data shape for analysis.
     - 4.Input/Output:
         - Read and write data to various file formats, including CSV, Excel, SQL, JSON, and more.
-      
+    - Common Use Cases
+    - Data cleaning and preparation
+    - Exploratory data analysis (EDA)
+    - Aggregating and summarizing data
+    - Handling time series data
+    - Preparing data for machine learning models
+- Pandas is widely used in data science, machine learning, and finance due to its ease of use and integration with other data science libraries like NumPy, Matplotlib, and scikit-learn.    
