@@ -8,3 +8,5 @@
     - Integration with Other Libraries
     -  Random Number Generation
     - Efficient Memory Usage
+- NumPy arrays are preferred for numerical operations and large datasets due to their speed, memory efficiency, and extensive functionality,
+- while lists are more versatile for general-purpose use with mixed data types.
